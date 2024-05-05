@@ -1,11 +1,13 @@
 # Data-Wrangling-and-Analysis-for-Loan-Classification
 Data Wrangling and Analysis for Loan Classification 
 
-Overview
+# Overview
+
 This project focuses on analyzing a dataset related to loan applications to classify whether a loan should be approved or not. The main steps involved in this project are data cleaning and preprocessing, exploratory data analysis (EDA), feature engineering, data transformation, and correlation analysis. These steps aim to prepare the data for machine learning models that can predict loan approval status based on various features.
 
 
-Steps
+# Steps
+
 Data Cleaning and Preprocessing:
 Handle missing values, duplicate records, and outliers in the dataset.
 Exploratory Data Analysis (EDA):
@@ -23,5 +25,5 @@ Correlation Analysis:
 Analyze the correlation between various features and the target variable (Loan_Status).
 Identify features with significant impact on loan approval.
 
-Upon completion of the analysis, you will have a better understanding of the loan dataset and the factors influencing loan approval. This insight can be used to build machine learning models for loan classification.
+
 
