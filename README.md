@@ -8,7 +8,7 @@ This project focuses on analyzing a dataset related to loan applications to clas
 
 # Steps
 
-Data Cleaning and Preprocessing:
+## Data Cleaning and Preprocessing:
 
 Handle missing values, duplicate records, and outliers in the dataset.
 Exploratory Data Analysis (EDA):
